@@ -28,14 +28,34 @@ Welcome to **Neutral Studios** a FiveM development store building scripts that b
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="140"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=lua,js,html,css&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>UI / NUI</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,vue&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frameworks</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FiveM-1a0b3d?style=for-the-badge&logo=fivem&logoColor=f107a3" />
+      <img src="https://img.shields.io/badge/QBCore-1a0b3d?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/Qbox-1a0b3d?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/ESX-1a0b3d?style=for-the-badge&logoColor=white" />
+      <img src="https://img.shields.io/badge/ox__lib-1a0b3d?style=for-the-badge&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 <!-- Footer banner -->
 <p align="center">
