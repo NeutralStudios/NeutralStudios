@@ -20,7 +20,7 @@
 
 ## About Us
 
-Welcome to **Neutral Studios**  a FiveM development store building scripts that bring top-tier quality to your server.
+Welcome to **Neutral Studios** a FiveM development store building scripts that bring top-tier quality to your server.
 
 - Specializing in **FiveM** resources written in **Lua**
 - Performance-first: low resmon, clean code, simple configs
@@ -35,16 +35,6 @@ Welcome to **Neutral Studios**  a FiveM development store building scripts that 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-## Most Used Languages
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeutralStudios&layout=compact&theme=radical&hide_border=true&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NeutralStudios&color=f107a3&style=for-the-badge&label=Profile+Views" />
 </p>
 
 <!-- Footer banner -->
